@@ -212,6 +212,21 @@ body {
     font-size: 15px;
 }
 
+.experiences__company-project-tech-stack {
+    color: var(--primary-text-color);
+    text-align: left;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.experiences__company-project-description {
+    color: var(--secondary-text-color);
+    text-align: left;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
 .experiences__company-project-name {
     color: var(--primary-text-color);
     text-align: left;
